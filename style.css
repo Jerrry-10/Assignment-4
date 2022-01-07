@@ -23,3 +23,6 @@ ul {
   section{
       font-size: 2rem;
   }
+.hover{
+    display:inline-block;
+  }
